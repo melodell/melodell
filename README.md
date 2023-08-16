@@ -8,7 +8,7 @@
 ---
 
 ### Things I Love
-- 👩‍💻 Web development
+- 👩‍💻 Web & Frontend development
 - 📚 Teaching
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" height="20px"> Emacs
 - 💻 "www" being pronounced "dub dub dub"

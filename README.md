@@ -3,6 +3,7 @@
 
 - 〽️ Master's student at the University of Michigan, studying computer science
 - 🕸️ TA for [Web Systems (EECS 485)](https://eecs485.org)
+- 🤖 GenAI Applications [Researcher](https://melodell.github.io/#papers)
 
 ---
 

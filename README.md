@@ -3,7 +3,6 @@
 
 - 〽️ Master's student at the University of Michigan, studying computer science
 - 🕸️ TA for [Web Systems (EECS 485)](https://eecs485.org)
-- 🗞️ Web Developer @ [The Michigan Daily](https://www.michigandaily.com)
 
 ---
 

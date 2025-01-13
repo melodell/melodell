@@ -1,17 +1,18 @@
 ### Hey! I'm Melina. 🖖
 *mel-EE-nuh*, she/her
 
-- 〽️ Master's student at the University of Michigan, studying computer science
-- 🕸️ TA for [Web Systems (EECS 485)](https://eecs485.org)
+- 👩‍💻 Software Engineer
+- 〽️ Computer Science and Engineering Master's, University of Michigan
+- 🕸️  Former TA for [Web Systems (EECS 485)](https://eecs485.org)
 - 🤖 [GenAI Applications Researcher](https://melodell.github.io/#papers)
 
 ---
 
 ### Things I Love
-- 👩‍💻 Web & Frontend development
+- 💻 Web & Frontend development
 - 📚 Teaching
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" height="20px"> Emacs
-- 💻 "www" being pronounced "dub dub dub"
+- 🌐 "www" being pronounced "dub dub dub"
 
 ---
 

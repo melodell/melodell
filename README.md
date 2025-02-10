@@ -3,7 +3,7 @@
 
 - 👩‍💻 Software Engineer
 - 〽️ Computer Science and Engineering Master's, University of Michigan
-- 🕸️  Former instructor for [Web Systems (EECS 485)](https://eecs485.org)
+- 🕸️ Former instructor for [Web Systems (EECS 485)](https://eecs485.org)
 - 🤖 [GenAI Applications Researcher](https://melodell.github.io/#papers)
 
 ---
